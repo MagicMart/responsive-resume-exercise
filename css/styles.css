@@ -149,5 +149,6 @@ p {
         .main {
         float: left;
         width: 75%;
+        padding-right: 10%;    
     }
 }
