@@ -146,9 +146,12 @@ p {
         float: left;
         width: 25%;
     }
-        .main {
-        float: left;
-        width: 75%;
-        padding-right: 10%;    
+      .main {
+      float: left;
+      width: 75%;
+      padding-right: 10%;    
     }
+    .tag {
+    padding-right: 5px;
+    }    
 }
